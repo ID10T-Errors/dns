@@ -1,9 +1,13 @@
-a(_a, "192.30.252.153")
+a(_a, "192.30.252.153")                       -- GitHub Pages
 a(_a, "192.30.252.154")
 cname("www", "ID10T-Errors.github.io")
-cname("workshop", "ID10T-Errors.github.io")
+cname("workshop", "ID10T-Errors.github.io") 
 
-a("internal", "107.189.33.181")
+a("internal", "107.189.33.181")               -- GitLab, etc.
 
-mx(_a, "mx1.improvmx.com", 10)
+mx(_a, "mx1.improvmx.com", 10)                -- Email forwarding
 mx(_a, "mx2.improvmx.com", 20)
+
+                                              -- Team Member Subdomains
+                                               -- Zeb McCorkle
+a("zmccorkle", "107.189.38.20")                 -- Workstation
