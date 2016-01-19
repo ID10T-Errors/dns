@@ -4,7 +4,7 @@ cname("www", "ID10T-Errors.github.io")
 cname("workshop", "ID10T-Errors.github.io") 
 
 a("minecraft", "158.69.226.20")               -- Games
-srv("minecraft", "minecraft.ctftoolkit.com", 25601, 5, 5)
+srv("_minecraft._tcp", "minecraft", 25601, 5, 5)
 
 a("internal", "107.189.33.181")               -- GitLab, etc.
 
