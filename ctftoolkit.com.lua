@@ -15,5 +15,4 @@ mx(_a, "mx1.improvmx.com", 10)                -- Email forwarding
 mx(_a, "mx2.improvmx.com", 20)
 
                                               -- Team Member Subdomains
-                                               -- Zeb McCorkle
-a("zmccorkle", "107.189.38.20")                 -- Workstation
+a("zmccorkle", "104.236.80.60")                -- Zeb McCorkle
