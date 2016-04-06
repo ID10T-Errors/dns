@@ -9,9 +9,8 @@ srv("_minecraft._tcp.minecraft.ctftoolkit.com", "minecraft.ctftoolkit.com", 2560
 --srv(name, target, port, prio, weight, ttl)
 
 a("services", "104.236.80.60")                -- GitLab, etc.
-a("*.services", "104.236.80.60")
 aaaa("services", "2604:a880:800:10::701:8001")
-aaaa("*.services", "2604:a880:800:10::701:8001")
+cname("*.services", "services")
 
 mx(_a, "mx1.improvmx.com", 10)                -- Email forwarding
 mx(_a, "mx2.improvmx.com", 20)
