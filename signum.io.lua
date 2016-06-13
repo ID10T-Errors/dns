@@ -18,7 +18,7 @@ a("blog", "52.4.38.70")
 a("blog", "52.5.181.79")
 a("blog", "52.6.3.192")
 a("blog", "52.6.46.142")
-cname("2d756d622e76035bf8923c4eeb96153e.blog", "b1a41190c95e63c66e7026d49c4a8e5595a92606.comodoca.com")
+cname("5170ea2b64b9eb00068d0f0506682568.blog", "a15a00b60c6649f83dd02da57818c7103c0a6840.comodoca.com")
 
 --srv(name, target, port, prio, weight, ttl)
 
