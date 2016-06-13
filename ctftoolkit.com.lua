@@ -28,6 +28,3 @@ cname("*.services", "services.ctftoolkit.com")
 
 mx(_a, "mx1.improvmx.com", 10)                -- Email forwarding
 mx(_a, "mx2.improvmx.com", 20)
-
-                                              -- Team Member Subdomains
-a("zmccorkle", "104.236.80.60")                -- Zeb McCorkle
